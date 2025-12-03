@@ -1,0 +1,30 @@
+{
+  "name": "miniaudio.c",
+  "version": "0.11.23",
+  "description": "Audio playback and capture library written in C, in a single source file; David Reid (2016).",
+  "keywords": [
+    "c",
+    "library",
+    "audio",
+    "playback",
+    "capture"
+  ],
+  "homepage": "https://github.com/nodef/miniaudio.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/miniaudio.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/miniaudio.c.git"
+  },
+  "license": "UNLICENSED",
+  "author": "wolfram77@gmail.com",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "exit"
+  }
+}
