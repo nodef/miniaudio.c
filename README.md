@@ -53,11 +53,13 @@ Installation
 ============
 
 Run:
+
 ```bash
 $ npm i miniaudio.c
 ```
 
 And then include `miniaudio.h` as follows:
+
 ```c
 // main.c
 #define MINIAUDIO_IMPLEMENTATION
@@ -277,5 +279,6 @@ Your choice of either public domain or [MIT No Attribution](https://github.com/a
 <br>
 
 
+[![SRC](https://img.shields.io/badge/src-repo-green?logo=Org)](https://github.com/mackron/miniaudio)
 [![ORG](https://img.shields.io/badge/org-nodef-green?logo=Org)](https://nodef.github.io)
 ![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/miniaudio.c)

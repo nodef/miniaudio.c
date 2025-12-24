@@ -1,8 +1,7 @@
-# Asio libs
-miniaudio/
-
-# Build directory
+# Build artifacts
 .build/
+*.exe
+recorded_audio.wav
 
 # Logs
 logs

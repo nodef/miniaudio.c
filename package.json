@@ -1,6 +1,6 @@
 {
   "name": "miniaudio.c",
-  "version": "0.11.24",
+  "version": "0.11.25",
   "description": "Audio playback and capture library written in C, in a single source file; David Reid (2016).",
   "keywords": [
     "c",
@@ -19,12 +19,8 @@
   },
   "license": "UNLICENSED",
   "author": "wolfram77@gmail.com",
-  "type": "commonjs",
-  "main": "index.js",
-  "directories": {
-    "test": "test"
-  },
+  "main": "miniaudio.h",
   "scripts": {
-    "test": "exit"
+    "test": "bash build.sh test"
   }
 }
